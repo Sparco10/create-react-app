@@ -1,7 +1,7 @@
 import React from "react";
 import "./contact.css";
 
-const online = true;
+const online = false;
 const avatar =
   "https://avatars.githubusercontent.com/u/76485100?s=400&u=a33d12f3e44be8b2e627738df7e7aaebf7a9b3dc&v=4";
 
